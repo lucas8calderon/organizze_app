@@ -72,7 +72,7 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 - Layouts
 - Sliders
 - Autenticação
-- Lifecyce
+- Lifecycle
 - Calendario
 - Logar/Deslogar
 - Swipe
