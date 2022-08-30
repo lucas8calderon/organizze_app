@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mic"
+        android:icon="@drawable/ic_exit"
+        app:showAsAction="always"
+        android:title="@string/mic"/>
+
+
+<!--    <item-->
+<!--        android:id="@+id/gps"-->
+<!--        android:title="@string/gps"-->
+<!--        android:icon="@drawable/ic_gps_fixed"-->
+<!--        app:showAsAction="always"/>-->
+
+</menu>
